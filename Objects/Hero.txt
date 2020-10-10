@@ -1,0 +1,16 @@
+Transform 
+0 0 
+0
+Sprite
+spaceship
+60
+60
+1 1 1 1
+Body
+200.0
+0
+Circle
+30
+AdditionalProperties
+0
+0

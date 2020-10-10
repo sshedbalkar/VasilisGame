@@ -1,0 +1,28 @@
+Transform 
+0 0 
+0
+Sprite
+enemy3
+30
+30
+1 1 1 1
+Body
+200.0
+0
+Box
+15
+15
+AdditionalProperties
+0
+0.2
+AI
+-75 75
+500
+-75 -75
+100
+0 -100
+50
+-100 0
+400
+0 -100
+50

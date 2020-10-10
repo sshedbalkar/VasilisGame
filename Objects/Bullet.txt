@@ -1,0 +1,14 @@
+Transform 
+0 0 
+0
+Sprite
+herobullet
+10
+24
+1 1 1 1
+Body
+400.0
+0
+Box
+5
+12
